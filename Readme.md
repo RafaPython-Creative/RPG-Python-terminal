@@ -21,9 +21,9 @@ Este é um simples jogo de RPG feito em Python, rodando no terminal. Nele, o jog
    git clone https://github.com/RafaPython-Creative/RPG-Python-terminal
    cd RPG-Python-terminal
    ```
-   ```bash
 
-   ```
+
+   ```bash
 2. Execute o jogo
    python jogo.py
    ```
